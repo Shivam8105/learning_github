@@ -1,3 +1,4 @@
 # learning_github
 This is not my first git repository . i just made this to clear my concepts regarding git and github.
-Author -> Shivam kumar
+Author -> Shivam kumar(Ranchi Waale)
+
